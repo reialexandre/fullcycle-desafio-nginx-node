@@ -1,0 +1,10 @@
+{
+  "name": "proxyreverso-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^3.11.5"
+  }
+}
